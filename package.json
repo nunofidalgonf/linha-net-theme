@@ -1,0 +1,20 @@
+{
+    "name": "linha-net-theme",
+    "displayName": "Linha.net Theme",
+    "description": "Linha.net theme for vscode",
+    "version": "0.0.1",
+    "publisher": "linha-net",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "linha.net (dark)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/linha.net-color-theme.json"
+        }]
+    }
+}
