@@ -19,7 +19,6 @@
 		"titleBar.activeBackground": "#000000",
 		"editorGroupHeader.noTabsBackground": "#000000",
 		"editorGroupHeader.tabsBackground": "#000000",
-		""
 	},
 	"tokenColors": [{
 			"settings": {
