@@ -2,7 +2,7 @@
     "name": "linha-net-theme",
     "displayName": "Linha.net Theme",
     "description": "Linha.net theme for vscode",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/nunofidalgonf/linha-net-theme.git"
@@ -15,10 +15,12 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "linha.net (dark)",
-            "uiTheme": "vs-dark",
-            "path": "./themes/linha.net-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "linha.net (dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/linha.net-color-theme.json"
+            }
+        ]
     }
 }
